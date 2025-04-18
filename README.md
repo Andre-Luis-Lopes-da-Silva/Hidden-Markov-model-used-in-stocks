@@ -10,3 +10,5 @@ These states reflect changes in the statistical regime of the asset (for example
 The data of LREN3 are evaluated at: https://figshare.com/articles/dataset/Macroeconomic_indices_used_in_predictive_model_for_retail_sector_in_Brazil/22674859
 
 DOI: 10.6084/m9.figshare.22674865
+
+Conclusion: It is necessary to increase the complexity of the model to detect the accurate trends. 
