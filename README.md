@@ -7,6 +7,8 @@ The HMM (Hidden Markov Model) attempts to find hidden states that best explain t
 
 These states reflect changes in the statistical regime of the asset (for example, a change in the average return or volatility), but do not necessarily represent direct increases (uptrend) or decreases (dowtrend) in the price.
 
+The GaussianHMM assumes that the returns of each regime follow a normal distribution, which is not always true in financial markets.
+
 The data of LREN3 are evaluated at: https://figshare.com/articles/dataset/Macroeconomic_indices_used_in_predictive_model_for_retail_sector_in_Brazil/22674859
 
 DOI: 10.6084/m9.figshare.22674865
